@@ -32,7 +32,7 @@ $(document).ready(function () {
                 "first_name": "Eva",
                 "last_name": "Nugui",
                 "email": "eva@eva.com",
-                "url": "http://localhost/autocompletar/images/eva.jpg"
+                "url": "http://autocomplete.lan/images/eva.jpg"
             },
             {
                 "first_name": "evaristo",
